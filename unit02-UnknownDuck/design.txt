@@ -1,0 +1,34 @@
+__Nouns__
+Ship 
+hull
+shields
+armarment
+large ships
+weapons
+enemy ships
+
+__Classes__
+
+Ship   
+    -name (ship)
+    -hull
+    -shields
+    -weapon
+
+    -sustain Damage
+    -recharge
+    -deplete 
+
+Weapons
+    -name(weapon)
+    _Damagetype/Color_
+    -Heavy(Green)
+    -Normal(Red)
+    -Ion(Blue)
+
+__Verbs__
+Sustain Damage
+recharge
+deplete
+fire(weapon)
+deal damage

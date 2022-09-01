@@ -1,0 +1,5 @@
+1 Thing I learned was how to use JTest
+
+1 Thing I wish we spent more time on was the difference in syntax
+
+Can we possibly change Bobby's vs code to dark mode

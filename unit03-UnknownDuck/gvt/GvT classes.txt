@@ -1,0 +1,23 @@
+3.1
+
+The Goats vs. TrollsCCG has been so wildly successful that the 
+powers that be have decided to expand the IP into a new video game 
+inspired by the classic JRPGs of the 1980s. Your software 
+development company has been contracted to develop the highly 
+anticipated game. Goats vs. Trolls: The RPG. The player will control a 
+party of 4 goats, as they battle against endless waves of enemy trolls. 
+Your team will begin its design by focusing on the heroic Goats.
+
+class
+mage--
+    Max Hit points
+    Current Hit points
+    name
+    
+
+Fighter--
+
+Attack--
+    name 
+    num of hits
+    damage type
